@@ -49,4 +49,4 @@ python bert_test.py --source ${Bert format txt} --wegiths ${weight file name} --
 
 ## Output
 
-<a href=''>Presentation</a>
+<a href='https://github.com/winston1214/Stock-Prediction/blob/master/PT/final_presentation.pdf'>Presentation</a>
